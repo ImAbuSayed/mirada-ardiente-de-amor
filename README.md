@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú tienes esa magia que me invita a pecar
+> Una mirada ardiente que no puedo esquivar
+> La noche está llamando, nos vamos a escapar
+> En la disco tú y yo, mami, listos pa' volar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
