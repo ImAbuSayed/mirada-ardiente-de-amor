@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mirada ardiente de amor
+
+This log tracks the cryptographic history and versioning for the song **Mirada ardiente de amor** (mirada-ardiente-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T22:34:41.557035 | `v1` | `a14a69866a5a9d5900de60cd7efccc432023c51be4e757c516c5140c85f7d23b` | `ed1eebcb6b6481f549a9d1dbbf244a4d5b591c7e83945afb594d43f64d34a0ad` | `2026-06-17_mirada-ardiente-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
